@@ -1,0 +1,8 @@
+                                ----------------------------------------------------                                     LibSSC - Lib Syndication Service and Commit
+                                ----------------------------------------------------                             
+                                 
+                                C89 library to manage syndication and commit updates.
+                                
+
+                               Please note that this project only targets UNIX devices
+                               We are not planning to target Windows for now.
